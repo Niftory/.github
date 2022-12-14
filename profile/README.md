@@ -1,7 +1,8 @@
 # Niftory
 Welcome to Niftory! We're here to make it easier to build in Web 3, starting with the Flow Blockchain.
 
-Explore @ [https://niftory.com](https://niftory.com) and [Read our Docs](https://docs.niftory.com). Connect with us on [Discord](https://discord.gg/nZJYz3aJsk) and [Twitter](https://twitter.com/niftory). 
+- Explore @ [https://niftory.com](https://niftory.com) and [Read our Docs](https://docs.niftory.com). 
+- Connect with us on [Discord](https://discord.gg/nZJYz3aJsk) and [Twitter](https://twitter.com/niftory). 
 
 ## Getting Started
 Ready to start building? Get an API Key from [https://niftory.com](https://niftory.com) and start for free against Testnet. 
